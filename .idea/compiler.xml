@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ly-upload" />
+        <module name="ly-order-service" />
+        <module name="ly-registry" />
+        <module name="ly-page" />
+        <module name="ly-search" />
+        <module name="ly-user-service" />
+        <module name="ly-gateway" />
+        <module name="ly-item-dto" />
+        <module name="ly-item-inteface" />
+        <module name="ly-config" />
+        <module name="ly-user-interface" />
+        <module name="springBoot-demo" />
+        <module name="ly-task-inteface" />
+        <module name="ly-common" />
+        <module name="ly-task-dto" />
+        <module name="ly-cart" />
+        <module name="mq-demo" />
+        <module name="ly-order-inteface" />
+        <module name="ly-task-service" />
+        <module name="ly-user-dto" />
+        <module name="springboot-myBatisplus-demo" />
+        <module name="ly-auth" />
+        <module name="ly-item-service" />
+        <module name="myBatisPlus-generator" />
+        <module name="ly-sms" />
+        <module name="springBoot-demo2" />
+        <module name="ly-order-dto" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="leyou" target="1.8" />
+      <module name="ly-auth" target="1.8" />
+      <module name="ly-cart" target="1.8" />
+      <module name="ly-common" target="1.8" />
+      <module name="ly-config" target="1.8" />
+      <module name="ly-gateway" target="1.8" />
+      <module name="ly-item" target="1.8" />
+      <module name="ly-item-dto" target="1.8" />
+      <module name="ly-item-inteface" target="1.8" />
+      <module name="ly-item-service" target="1.8" />
+      <module name="ly-order" target="1.8" />
+      <module name="ly-order-dto" target="1.8" />
+      <module name="ly-order-inteface" target="1.8" />
+      <module name="ly-order-service" target="1.8" />
+      <module name="ly-page" target="1.8" />
+      <module name="ly-registry" target="1.8" />
+      <module name="ly-search" target="1.8" />
+      <module name="ly-sms" target="1.8" />
+      <module name="ly-task" target="1.8" />
+      <module name="ly-task-dto" target="1.8" />
+      <module name="ly-task-inteface" target="1.8" />
+      <module name="ly-task-service" target="1.8" />
+      <module name="ly-upload" target="1.8" />
+      <module name="ly-user" target="1.8" />
+      <module name="ly-user-dto" target="1.8" />
+      <module name="ly-user-interface" target="1.8" />
+      <module name="ly-user-service" target="1.8" />
+      <module name="mq-demo" target="1.8" />
+      <module name="myBatisPlus-generator" target="1.8" />
+      <module name="myBatisPlusDemo" target="1.8" />
+      <module name="rocketMq-demo" target="1.8" />
+      <module name="springBoot-demo" target="1.8" />
+      <module name="springBoot-demo2" target="1.8" />
+      <module name="springboot-myBatisplus-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ly-auth" options="-parameters" />
+      <module name="ly-cart" options="-parameters" />
+      <module name="ly-common" options="-parameters" />
+      <module name="ly-config" options="-parameters" />
+      <module name="ly-gateway" options="-parameters" />
+      <module name="ly-item-dto" options="-parameters" />
+      <module name="ly-item-inteface" options="-parameters" />
+      <module name="ly-item-service" options="-parameters" />
+      <module name="ly-order" options="-parameters" />
+      <module name="ly-order-dto" options="-parameters" />
+      <module name="ly-order-inteface" options="-parameters" />
+      <module name="ly-order-service" options="-parameters" />
+      <module name="ly-page" options="-parameters" />
+      <module name="ly-registry" options="-parameters" />
+      <module name="ly-search" options="-parameters" />
+      <module name="ly-sms" options="-parameters" />
+      <module name="ly-task" options="-parameters" />
+      <module name="ly-task-dto" options="-parameters" />
+      <module name="ly-task-inteface" options="-parameters" />
+      <module name="ly-task-service" options="-parameters" />
+      <module name="ly-upload" options="-parameters" />
+      <module name="ly-user" options="-parameters" />
+      <module name="ly-user-dto" options="-parameters" />
+      <module name="ly-user-interface" options="-parameters" />
+      <module name="ly-user-service" options="-parameters" />
+      <module name="mq-demo" options="-parameters" />
+      <module name="myBatisPlus-generator" options="-parameters" />
+      <module name="springBoot-demo" options="-parameters" />
+      <module name="springBoot-demo2" options="-parameters" />
+      <module name="springboot-myBatisplus-demo" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+#配置中心地址
+spring:
+  cloud:
+    config:
+      name: item
+      profile: dev
+      label: master
+      uri: http://127.0.0.1:12000
+
+#添加rabbitMQ地址
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    virtual-host: /leyou
+    username: leyou
+    password: leyou

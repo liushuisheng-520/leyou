@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-item/ly-item-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-item/ly-item-inteface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-item/ly-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-order/ly-order-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-order/ly-order-inteface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-order/ly-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-page" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-task" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-task/ly-task-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-task/ly-task-inteface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-task/ly-task-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-user/ly-user-dto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-user/ly-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ly-user/ly-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../myBatisPlusDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../myBatisPlusDemo/myBatisPlus-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../myBatisPlusDemo/springboot-myBatisplus-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocketMq-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocketMq-demo/mq-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocketMq-demo/springBoot-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../rocketMq-demo/springBoot-demo2" charset="UTF-8" />
+  </component>
+</project>
